@@ -1,7 +1,13 @@
 # pylib_collab
 
-LUx: A Python API for Intelligent Visual Discovery
+Lux: A Python API for Intelligent Visual Discovery
 
-Lux: https://github.com/naashonomics/pylib_collab/blob/main/lux_pandas.ipynb 
+Link  https://github.com/naashonomics/pylib_collab/blob/main/lux_pandas.ipynb 
 
 IssueL Kown Issue  in Collab , issue pending with dveelopers 
+
+Texthero is a python package to work with text data efficiently.
+It empowers NLP developers with a tool to quickly understand any text-based dataset and
+it provides a solid pipeline to clean and represent text data, from zero to hero.
+
+Link: https://github.com/naashonomics/pylib_collab/blob/main/texthero.ipynb
